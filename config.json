@@ -1,0 +1,10 @@
+{
+    "PORT": 3202, 
+    "HOST": "89.108.71.161",
+    "ROOT_URL": "https://nft-cockiz.com/",
+    "PATH_TO_JSON" : "/home/webmaster/service/apis/files/mint-pass.json",  
+    "SSL": {
+        "cert": "/etc/letsencrypt/live/nft-cockiz.com/fullchain.pem",
+        "key" : "/etc/letsencrypt/live/nft-cockiz.com/privkey.pem"
+    }
+}

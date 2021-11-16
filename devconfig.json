@@ -1,0 +1,10 @@
+{
+    "PORT": 80, 
+    "HOST": "192.168.0.198",
+    "ROOT_URL": "https://cubebot.fun/",
+    "PATH_TO_JSON" : "G:/Programming/work/cryptoProject/nft-cockiz_API/src/data/data.json",
+    "SSL": {
+        "cert": "./etc/sslDev/cert.pem",
+        "key" : "./etc/sslDev/key.pem"
+    }
+}
